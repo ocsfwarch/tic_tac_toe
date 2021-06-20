@@ -41,4 +41,5 @@ To play this game, each player X or Y will make a selection in an empty grid ele
 
 ## Design and Architecture
 
-![Component Layout](https://github.com/ocsfwarch/tic_tac_toe/blob/master/Project_Docs/component_layout.png)
+- Component Layout Diagram
+  ![Component Layout](https://github.com/ocsfwarch/tic_tac_toe/blob/master/Project_Docs/component_layout.png)
