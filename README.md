@@ -43,3 +43,11 @@ To play this game, each player X or Y will make a selection in an empty grid ele
 
 - Component Layout Diagram
   ![Component Layout](https://github.com/ocsfwarch/tic_tac_toe/blob/master/Project_Docs/component_layout.png)
+
+Component | Description
+Game|This is the controlling component for the app
+Welcome|This component provides the introduction user information
+Grid|This component controls the display of the user selections
+Status|This component displays the current game status to the users
+Control|This component displays the game controls
+GridItem|This component displays the user selection
