@@ -8,7 +8,7 @@ To play this game, each player X or Y will make a selection in an empty grid ele
 
 ## Application Image
 
-![Component Layout](https://github.com/ocsfwarch/tic_tac_toe/blob/master/Project_Docs/app_image.png)
+![Component Layout](https://github.com/ocsfwarch/tic_tac_toe/blob/master/Project_Docs/app_image_1.png)
 
 ## Use Case 1 - Running the game
 
