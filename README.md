@@ -56,3 +56,12 @@ To play this game, each player X or Y will make a selection in an empty grid ele
 | Status    | This component displays the current game status to the users |
 | Control   | This component displays the game controls                    |
 | GridItem  | This component displays the user selection                   |
+
+## Testing
+
+- Testing is performed on each of the components. Each of the component tests verifies the ability of the component to render and that each of the main sub-components are displayed. All the test files are contained in the `tests` folder.
+
+| Module used for testing   | Version |
+| ------------------------- | ------- |
+| @testing-library/jest-dom | ^5.14.1 |
+| @testing-library/react    | ^11.2.7 |
